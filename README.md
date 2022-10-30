@@ -1,4 +1,12 @@
 # HTML-LIST
+
+# Types of Lists :-
+
+ (1) ORDERED LIST.
+ (2) UNORDERED LIST.
+ (3) DESCRIPTION LIST.
+ 
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
